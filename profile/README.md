@@ -45,7 +45,7 @@ Proses pengembangan kami dilakukan secara transparan dan terstruktur:
 Siap memulai transformasi digital? Diskusikan tantangan bisnis Anda bersama tim ahli kami.
 
 - 🌐 **Website:** [solunesia.id](https://solunesia.id)
-- 📧 **Email:** [contact@solunesia.id](mailto:hello@solunesia.id)
+- 📧 **Email:** [hello@solunesia.id](mailto:hello@solunesia.id)
 - 📱 **WhatsApp:** [+62 822-8831-1123](https://wa.me/6282288311123)
 - 📍 **Lokasi:** Batam & Tanjungpinang, Indonesia
 
